@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%7Bapp-name%7D/static/css/main.1d88919f.chunk.css",
+    "main.js": "/%7Bapp-name%7D/static/js/main.7fc89494.chunk.js",
+    "main.js.map": "/%7Bapp-name%7D/static/js/main.7fc89494.chunk.js.map",
+    "runtime-main.js": "/%7Bapp-name%7D/static/js/runtime-main.6d92dc04.js",
+    "runtime-main.js.map": "/%7Bapp-name%7D/static/js/runtime-main.6d92dc04.js.map",
+    "static/js/2.85e441b3.chunk.js": "/%7Bapp-name%7D/static/js/2.85e441b3.chunk.js",
+    "static/js/2.85e441b3.chunk.js.map": "/%7Bapp-name%7D/static/js/2.85e441b3.chunk.js.map",
+    "index.html": "/%7Bapp-name%7D/index.html",
+    "static/css/main.1d88919f.chunk.css.map": "/%7Bapp-name%7D/static/css/main.1d88919f.chunk.css.map",
+    "static/js/2.85e441b3.chunk.js.LICENSE.txt": "/%7Bapp-name%7D/static/js/2.85e441b3.chunk.js.LICENSE.txt",
+    "static/media/LinkedIn.509efc09.jpg": "/%7Bapp-name%7D/static/media/LinkedIn.509efc09.jpg",
+    "static/media/be-nc-news-screenshot.f863b008.png": "/%7Bapp-name%7D/static/media/be-nc-news-screenshot.f863b008.png",
+    "static/media/female developer 1-01.442e6bdd.jpg": "/%7Bapp-name%7D/static/media/female developer 1-01.442e6bdd.jpg",
+    "static/media/happy-fruit.749e232f.jpg": "/%7Bapp-name%7D/static/media/happy-fruit.749e232f.jpg",
+    "static/media/iconmonstr-github-3.197212f0.svg": "/%7Bapp-name%7D/static/media/iconmonstr-github-3.197212f0.svg",
+    "static/media/iconmonstr-linkedin-3.27a3f479.svg": "/%7Bapp-name%7D/static/media/iconmonstr-linkedin-3.27a3f479.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d92dc04.js",
+    "static/js/2.85e441b3.chunk.js",
+    "static/css/main.1d88919f.chunk.css",
+    "static/js/main.7fc89494.chunk.js"
+  ]
+}
