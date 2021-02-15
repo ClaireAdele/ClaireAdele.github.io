@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d88919f.chunk.css",
+    "main.js": "/static/js/main.7fc89494.chunk.js",
+    "main.js.map": "/static/js/main.7fc89494.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
+    "static/js/2.85e441b3.chunk.js": "/static/js/2.85e441b3.chunk.js",
+    "static/js/2.85e441b3.chunk.js.map": "/static/js/2.85e441b3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1d88919f.chunk.css.map": "/static/css/main.1d88919f.chunk.css.map",
+    "static/js/2.85e441b3.chunk.js.LICENSE.txt": "/static/js/2.85e441b3.chunk.js.LICENSE.txt",
+    "static/media/LinkedIn.509efc09.jpg": "/static/media/LinkedIn.509efc09.jpg",
+    "static/media/be-nc-news-screenshot.f863b008.png": "/static/media/be-nc-news-screenshot.f863b008.png",
+    "static/media/female developer 1-01.442e6bdd.jpg": "/static/media/female developer 1-01.442e6bdd.jpg",
+    "static/media/happy-fruit.749e232f.jpg": "/static/media/happy-fruit.749e232f.jpg",
+    "static/media/iconmonstr-github-3.197212f0.svg": "/static/media/iconmonstr-github-3.197212f0.svg",
+    "static/media/iconmonstr-linkedin-3.27a3f479.svg": "/static/media/iconmonstr-linkedin-3.27a3f479.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d25ba2e.js",
+    "static/js/2.85e441b3.chunk.js",
+    "static/css/main.1d88919f.chunk.css",
+    "static/js/main.7fc89494.chunk.js"
+  ]
+}
